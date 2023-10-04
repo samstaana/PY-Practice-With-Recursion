@@ -7,3 +7,5 @@ def power (a, b):
     else: return a * power(a, b - 1)
 
 print(power(2, 4))
+print(power(3, 3))
+print(power(10, 10))
